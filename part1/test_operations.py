@@ -53,3 +53,26 @@ print('%0.3f 的平方根为 %0.3f'%(num3,num_sqrt))
 print('----------------平方根运算----------------')
 
 
+# 立方运算
+"""
+    实现要求：
+    输入 : n = 5
+    输出 : 225
+    公式 : 13 + 23 + 33 + 43 + 53 = 225
+"""
+
+
+# 定义立方和的函数
+def sumOfSeries(n):
+    cube_sum = 0
+    for i in range(1, n + 1):
+        cube_sum += i * i * i
+
+    return cube_sum
+
+
+# 调用函数
+n = 5
+print(sumOfSeries(n))
+
+
