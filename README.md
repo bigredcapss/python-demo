@@ -1,6 +1,6 @@
 # python-demo
 
-`Python 3.11.5` grammar practice demos[](https://)
+`Python 3.11.5` grammar practice demos
 
 ## part1
 
