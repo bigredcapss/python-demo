@@ -35,8 +35,8 @@
 29. [约瑟夫生者死者小游戏](https://github.com/bigredcapss/python-demo/blob/main/part1/test_joseph.py)
 30. [五人分鱼](https://github.com/bigredcapss/python-demo/blob/main/part1/test_fish.py)
 31. [实现秒表功能](https://github.com/bigredcapss/python-demo/blob/main/part1/test_time.py)
-32. 计算数组元素之和
-33. 数组反转指定个数的元素
+32. [计算数组元素之和](https://github.com/bigredcapss/python-demo/blob/main/part1/test_sum_array.py)
+33. [](https://)数组反转指定个数的元素
 34. 将列表中的指定位置的两个元素对调
 35. 翻转列表
 36. 判断元素是否在列表中存在
