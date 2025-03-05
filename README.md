@@ -37,7 +37,7 @@
 31. [实现秒表功能](https://github.com/bigredcapss/python-demo/blob/main/part1/test_time.py)
 32. [计算数组元素之和](https://github.com/bigredcapss/python-demo/blob/main/part1/test_sum_array.py)
 33. [数组反转指定个数的元素](https://github.com/bigredcapss/python-demo/blob/main/part1/test_reverse_array.py)
-34. 将列表中的指定位置的两个元素对调
+34. [将列表中的指定位置的两个元素对调]((https://github.com/bigredcapss/python-demo/blob/main/part1/test_swap_element.py)
 35. 翻转列表
 36. 判断元素是否在列表中存在
 37. 清空列表
