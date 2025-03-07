@@ -49,50 +49,54 @@
 43. [计算列表元素之积](https://github.com/bigredcapss/python-demo/blob/main/part1/test_list_element_multi.py)
 44. [查找列表中的最小元素](https://github.com/bigredcapss/python-demo/blob/main/part1/test_list_min_element.py)
 45. [查找列表中的最大元素](https://github.com/bigredcapss/python-demo/blob/main/part1/test_list_max_element.py)
-46. 移除字符串中的指定位置字符
-47. 判断字符串是否存在子字符串
-48. 判断字符串长度
-49. 使用正则表达式提取字符串中的url
+46. [移除字符串中的指定位置字符](https://github.com/bigredcapss/python-demo/blob/main/part1/test_remove_char.py)
+47. [判断字符串是否存在子字符串](https://github.com/bigredcapss/python-demo/blob/main/part1/test_child_str.py)
+48. [判断字符串长度](https://github.com/bigredcapss/python-demo/blob/main/part1/test_str_lenth.py)
+49. [使用正则表达式提取字符串中的url](https://github.com/bigredcapss/python-demo/blob/main/part1/test_re_distill_url.py)
 50. [将字符串作为代码执行](https://github.com/bigredcapss/python-demo/blob/main/part1/test_exec.py)
-51. 字符串翻转
-52. 对字符串切片及翻转
-53. 按键(key)或值(value)对字典进行排序
-54. 计算字典值之和[](https://)
-55. 移除字典点键值(key/value)对
-56. 合并字典
-57. 将字符串的时间转换为时间戳
-58. 获取几天前的时间
-59. 将时间戳转换为指定格式日期
-60. 打印自己设计的字体
-61. 二分查找
-62. 线性查找
-63. 插入排序
-64. 快速排序
-65. 选择排序
-66. 冒泡排序
-67. 归并排序
-68. 堆排序
-69. 计数排序
-70. 希尔排序
-71. 拓扑排序
-72. 简单的银行系统
-73. [删除字符串首位的空格](https://github.com/bigredcapss/python-demo/blob/main/part1/test_strip.py)
-74. [按字母顺序对列表排序](https://github.com/bigredcapss/python-demo/blob/main/part1/test_sort.py)
-75. 简单的任务清单
-76. [创建一个类,并实例化它](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_init.py)
-77. [使用继承创建一个子类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_extend.py)
-78. [使用 @staticmethod 定义一个静态方法](https://github.com/bigredcapss/python-demo/blob/main/part1/test_static_method.py)
-79. [使用 @classmethod 定义一个类方法](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_method.py)
-80. [创建一个多继承的类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_multi_extend.py)
-81. [使用抽象类定义接口](https://github.com/bigredcapss/python-demo/blob/main/part1/test_abstract_class.py)
-82. [使用生成器实现一个无限序列](https://github.com/bigredcapss/python-demo/blob/main/part1/test_infinite_sequence.py)
-83. [定义一个迭代器类](https://github.com/bigredcapss/python-demo/blob/main/test_iter_class.py)
-84. [实现一个装饰器函数](https://github.com/bigredcapss/python-demo/blob/main/test_decorator_function.py)
-85. [实现一个装饰器类](https://github.com/bigredcapss/python-demo/blob/main/test_decorator_class.py)
-86. [使用 lambda 表达式进行列表排序](https://github.com/bigredcapss/python-demo/blob/main/part1/test_lambda.py)
-87. [使用魔术方法 \_\_str\_\_ 来自定义对象的打印输出](https://github.com/bigredcapss/python-demo/blob/main/part1/test_tostring.py)
-88. [使用filter和map函数处理数据](https://github.com/bigredcapss/python-demo/blob/main/part1/test_filter_map.py)
-89. [使用python实现一个简单的栈（Stack）类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_stack.py)
-90. [实现一个类，通过__repr__方法返回自定义对象的描述](https://github.com/bigredcapss/python-demo/blob/main/part1/test_repr.py)
-91. [使用python实现一个简单的队列类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_queue.py)
-92. [使用正则表达式实现邮箱验证](https://github.com/bigredcapss/python-demo/blob/main/part1/test_regex.py)
+51. [字符串翻转](https://github.com/bigredcapss/python-demo/blob/main/part1/test_str_reverse.py)
+52. [对字符串切片及翻转](https://github.com/bigredcapss/python-demo/blob/main/part1/test_str_split_reverse.py)
+53. [按键(key)或值(value)对字典进行排序](https://github.com/bigredcapss/python-demo/blob/main/part1/test_dict_sort.py)
+54. [计算字典值之和](https://github.com/bigredcapss/python-demo/blob/main/part1/test_dict_value_sum.py)
+55. [移除字典点键值(key/value)对](https://github.com/bigredcapss/python-demo/blob/main/part1/test_dict_remove.py)
+56. [合并字典](https://github.com/bigredcapss/python-demo/blob/main/part1/test_dict_merge.py)
+57. [将字符串的时间转换为时间戳](https://github.com/bigredcapss/python-demo/blob/main/part1/test_str_to_timestamp.py)
+58. [获取几天前的时间](https://github.com/bigredcapss/python-demo/blob/main/part1/test_before_days.py)
+59. [打印自己设计的字体](https://github.com/bigredcapss/python-demo/blob/main/part1/test_print_font.py)
+60. [简单的银行系统](https://github.com/bigredcapss/python-demo/blob/main/part1/test_bank.py)
+61. 删除字符串首位的空格
+62. [按字母顺序对列表排序](https://github.com/bigredcapss/python-demo/blob/main/part1/test_sort.py)
+63. [简单的任务清单](https://github.com/bigredcapss/python-demo/blob/main/part1/test_todo_list.py)
+64. [创建一个类,并实例化它](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_init.py)
+65. [使用继承创建一个子类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_extend.py)
+66. [使用 @staticmethod 定义一个静态方法](https://github.com/bigredcapss/python-demo/blob/main/part1/test_static_method.py)
+67. [使用 @classmethod 定义一个类方法](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_method.py)
+68. [创建一个多继承的类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_multi_extend.py)
+69. [使用抽象类定义接口](https://github.com/bigredcapss/python-demo/blob/main/part1/test_abstract_class.py)
+70. [使用生成器实现一个无限序列](https://github.com/bigredcapss/python-demo/blob/main/part1/test_infinite_sequence.py)
+71. [定义一个迭代器类](https://github.com/bigredcapss/python-demo/blob/main/test_iter_class.py)
+72. [实现一个装饰器函数](https://github.com/bigredcapss/python-demo/blob/main/test_decorator_function.py)
+73. [实现一个装饰器类](https://github.com/bigredcapss/python-demo/blob/main/test_decorator_class.py)
+74. [使用 lambda 表达式进行列表排序](https://github.com/bigredcapss/python-demo/blob/main/part1/test_lambda.py)
+75. [使用魔术方法 \_\_str\_\_ 来自定义对象的打印输出](https://github.com/bigredcapss/python-demo/blob/main/part1/test_tostring.py)
+76. [使用filter和map函数处理数据](https://github.com/bigredcapss/python-demo/blob/main/part1/test_filter_map.py)
+77. [使用python实现一个简单的栈（Stack）类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_stack.py)
+78. [实现一个类，通过__repr__方法返回自定义对象的描述](https://github.com/bigredcapss/python-demo/blob/main/part1/test_repr.py)
+79. [使用python实现一个简单的队列类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_queue.py)
+80. [使用正则表达式实现邮箱验证](https://github.com/bigredcapss/python-demo/blob/main/part1/test_regex.py)
+
+
+
+## part2
+
+1. 二分查找
+2. 线性查找
+3. 插入排序
+4. 快速排序
+5. 选择排序
+6. 冒泡排序
+7. 归并排序
+8. 堆排序
+9. 计数排序
+10. 希尔排序
+11. 拓扑排序
