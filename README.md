@@ -64,7 +64,7 @@
 58. [获取几天前的时间](https://github.com/bigredcapss/python-demo/blob/main/part1/test_before_days.py)
 59. [打印自己设计的字体](https://github.com/bigredcapss/python-demo/blob/main/part1/test_print_font.py)
 60. [简单的银行系统](https://github.com/bigredcapss/python-demo/blob/main/part1/test_bank.py)
-61. 删除字符串首位的空格
+61. [删除字符串首尾的空格](https://github.com/bigredcapss/python-demo/blob/main/part1/test_del_str_blank.py)
 62. [按字母顺序对列表排序](https://github.com/bigredcapss/python-demo/blob/main/part1/test_sort.py)
 63. [简单的任务清单](https://github.com/bigredcapss/python-demo/blob/main/part1/test_todo_list.py)
 64. [创建一个类,并实例化它](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_init.py)
