@@ -95,10 +95,20 @@ https://www.runoob.com/python3/python3-tutorial.html
 * [使用 @classmethod 定义一个类方法](https://github.com/bigredcapss/python-demo/blob/main/part3/test_class_method.py)
 * [使用filter和map函数处理数据](https://github.com/bigredcapss/python-demo/blob/main/part3/test_filter_map.py)
 * [使用 lambda 表达式进行列表排序](https://github.com/bigredcapss/python-demo/blob/main/part3/test_lambda.py)
+* [高阶函数与filter，map，reduce](https://github.com/bigredcapss/python-demo/blob/main/part3/test_higher_order_function.py)
+* [返回函数与nonlocal](https://github.com/bigredcapss/python-demo/blob/main/part3/test_return_func.py)
+* [lambda与匿名函数](https://github.com/bigredcapss/python-demo/blob/main/part3/test_lambda.py)
+* [装饰器](https://github.com/bigredcapss/python-demo/blob/main/part3/test_decorator.py)
+* [实现一个装饰器函数](https://github.com/bigredcapss/python-demo/blob/main/part5/test_decorator_function.py)
+* [偏函数](https://github.com/bigredcapss/python-demo/blob/main/part3/test_partial.py)
 
 ## part4-模块安装与使用
 
-python模块安装与使用
+python模块安装与使用，`环境隔离`，`miniconda`
+
+```shell
+pip install 包名
+```
 
 ## part5-面向对象编程
 
@@ -106,17 +116,25 @@ python模块安装与使用
 
 * [创建一个多继承的类](https://github.com/bigredcapss/python-demo/blob/main/part5/test_multi_extend.py)
 * [使用抽象类定义接口](https://github.com/bigredcapss/python-demo/blob/main/part5/test_abstract_class.py)
-* [定义一个迭代器类](https://github.com/bigredcapss/python-demo/blob/main/test_iter_class.py)
-* [实现一个装饰器函数](https://github.com/bigredcapss/python-demo/blob/main/test_decorator_function.py)
-* [实现一个装饰器类](https://github.com/bigredcapss/python-demo/blob/main/test_decorator_class.py)
-* [创建一个类,并实例化它](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_init.py)
-* [使用继承创建一个子类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_class_extend.py)
-* [使用魔术方法 \_\_str\_\_ 来自定义对象的打印输出](https://github.com/bigredcapss/python-demo/blob/main/part1/test_tostring.py)
-* [实现一个类，通过__repr__方法返回自定义对象的描述](https://github.com/bigredcapss/python-demo/blob/main/part1/test_repr.py)
-* [使用python实现一个简单的栈（Stack）类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_stack.py)
-* [使用python实现一个简单的队列类](https://github.com/bigredcapss/python-demo/blob/main/part1/test_queue.py)
+* [定义一个迭代器类](https://github.com/bigredcapss/python-demo/blob/main/part5/test_iter_class.py)
+* [实现一个装饰器函数](https://github.com/bigredcapss/python-demo/blob/main/part5/test_decorator_function.py)
+* [实现一个装饰器类](https://github.com/bigredcapss/python-demo/blob/main/part5/test_decorator_class.py)
+* [创建一个类,并实例化它](https://github.com/bigredcapss/python-demo/blob/main/part5/test_class_init.py)
+* [使用继承创建一个子类](https://github.com/bigredcapss/python-demo/blob/main/part5/test_class_extend.py)
+* [使用魔术方法 \_\_str\_\_ 来自定义对象的打印输出](https://github.com/bigredcapss/python-demo/blob/main/part5/test_tostring.py)
+* [实现一个类，通过__repr__方法返回自定义对象的描述](https://github.com/bigredcapss/python-demo/blob/main/part5/test_repr.py)
+* [使用python实现一个简单的栈（Stack）类](https://github.com/bigredcapss/python-demo/blob/main/part5/test_stack.py)
+* [使用python实现一个简单的队列类](https://github.com/bigredcapss/python-demo/blob/main/part5/test_queue.py)
 
 ## part6-错误和异常处理，调试，测试
+
+* [异常捕获](https://github.com/bigredcapss/python-demo/blob/main/part6/test_.py)
+* [异常记录](https://github.com/bigredcapss/python-demo/blob/main/part6/test_logging.py)
+* [抛出错误1](https://github.com/bigredcapss/python-demo/blob/main/part6/test_raise.py)
+* [抛出错误2](https://github.com/bigredcapss/python-demo/blob/main/part6/test_reraise.py)
+* [异常调用栈](https://github.com/bigredcapss/python-demo/blob/main/part6/test_err.py)
+
+[](https://)
 
 ## part7-IO编程
 
@@ -126,8 +144,8 @@ python模块安装与使用
 
 ## part9-正则表达式
 
-* [使用正则表达式实现邮箱验证](https://github.com/bigredcapss/python-demo/blob/main/part1/test_regex.py)
-* [使用正则表达式提取字符串中的url](https://github.com/bigredcapss/python-demo/blob/main/part1/test_re_distill_url.py)
+* [使用正则表达式实现邮箱验证](https://github.com/bigredcapss/python-demo/blob/main/part9/test_regex.py)
+* [使用正则表达式提取字符串中的url](https://github.com/bigredcapss/python-demo/blob/main/part9/test_re_distill_url.py)
 
 ## part10-常用内建模块
 
