@@ -27,7 +27,6 @@ https://www.runoob.com/python3/python3-tutorial.html
 * [输出指定范围的素数(质数)](https://github.com/bigredcapss/python-demo/blob/main/part1/test_output_range_number.py)
 * [阶乘运算](https://github.com/bigredcapss/python-demo/blob/main/part1/test_factorial.py)
 * [九九乘法表](https://github.com/bigredcapss/python-demo/blob/main/part1/test_multiplication-table.py)
-* [斐波那契数列](https://github.com/bigredcapss/python-demo/blob/main/part1/test_fibonacci_sequence.py)
 * [检测阿姆斯特朗数](https://github.com/bigredcapss/python-demo/blob/main/part1/test_armstrong_number.py)
 * [十进制与二进制，八进制，十六进制转换](https://github.com/bigredcapss/python-demo/blob/main/part1/test_number_system.py)
 * [ASCII码与字符相互转换](https://github.com/bigredcapss/python-demo/blob/main/part1/test_ascii.py)
@@ -76,9 +75,17 @@ https://www.runoob.com/python3/python3-tutorial.html
 
 包含`函数的定义与调用`, `函数的参数`, `递归函数` ,`切片`,`迭代`, `列表生成式`, `生成器与迭代器`
 
+* [函数的定义](https://github.com/bigredcapss/python-demo/blob/main/part2/test_defi_function.py)
+* [函数的参数](https://github.com/bigredcapss/python-demo/blob/main/part2/test_function_params.py)
+* [斐波那契数列](https://github.com/bigredcapss/python-demo/blob/main/part2/test_fibonacci_sequence.py)
 * [使用生成器实现一个无限序列](https://github.com/bigredcapss/python-demo/blob/main/part2/test_infinite_sequence.py)
 * [简单的银行系统](https://github.com/bigredcapss/python-demo/blob/main/part2/test_bank.py)
 * [简单的任务清单](https://github.com/bigredcapss/python-demo/blob/main/part2/test_todo_list.py)
+* [切片操作](https://github.com/bigredcapss/python-demo/blob/main/part2/test_slice.py)
+* [迭代操作](https://github.com/bigredcapss/python-demo/blob/main/part2/test_iter.py)
+* [列表生成式](https://github.com/bigredcapss/python-demo/blob/main/part2/test_list_compr.py)
+* [生成器](https://github.com/bigredcapss/python-demo/blob/main/part2/test_generator.py)
+* [迭代器](https://github.com/bigredcapss/python-demo/blob/main/part2/test_iterator.py)
 
 ## part3-函数式编程
 
