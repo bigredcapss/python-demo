@@ -128,11 +128,14 @@ pip install 包名
 
 ## part6-错误和异常处理，调试，测试
 
+包含`异常分类` ,`try-catch-finally` ,`断言` ,`单元测试` ,`文档测试`
+
 * [异常捕获](https://github.com/bigredcapss/python-demo/blob/main/part6/test_.py)
 * [异常记录](https://github.com/bigredcapss/python-demo/blob/main/part6/test_logging.py)
 * [抛出错误1](https://github.com/bigredcapss/python-demo/blob/main/part6/test_raise.py)
 * [抛出错误2](https://github.com/bigredcapss/python-demo/blob/main/part6/test_reraise.py)
 * [异常调用栈](https://github.com/bigredcapss/python-demo/blob/main/part6/test_err.py)
+* 断言调试
 
 [](https://)
 
@@ -142,11 +145,32 @@ pip install 包名
 
 ## part8-进程和线程
 
+包含`多进程`，`多线程` ,`ThreadLocal` ,`分布式进程` 
+
+
 ## part9-正则表达式
+
+包含`分组`，`切分字符串`,`re模块`，`编译`
 
 * [使用正则表达式实现邮箱验证](https://github.com/bigredcapss/python-demo/blob/main/part9/test_regex.py)
 * [使用正则表达式提取字符串中的url](https://github.com/bigredcapss/python-demo/blob/main/part9/test_re_distill_url.py)
+* [正则表达式之re.search](https://github.com/bigredcapss/python-demo/blob/main/part9/test_re_search.py)
+* [正则表达式之re.match](https://github.com/bigredcapss/python-demo/blob/main/part9/test_re_match.py)
 
 ## part10-常用内建模块
 
+包含`datetime`,`collections`,`argparse`,`base64`,`struct`,`hashlib`,`hmac`,`itertools`,`contextlib`,`urllib`,`xml`,`HTMLParser`,`venv`
+
+
+
 ## part11-常用第三方模块
+
+包含`Pillow`,`requests`,`chardet`,`psutil`
+
+
+
+## part12-访问数据库
+
+包含`pymsql`
+
+* [使用pymysql访问mysql](https://github.com/bigredcapss/python-demo/blob/main/part12/test_mysql.py)
