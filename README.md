@@ -4,6 +4,8 @@
 
 学习资料：
 
+https://docs.python.org/3.11/library/index.html
+
 https://liaoxuefeng.com/books/python/introduction/index.html
 
 https://www.runoob.com/python3/python3-tutorial.html
