@@ -135,7 +135,7 @@ pip install 包名
 * [抛出错误1](https://github.com/bigredcapss/python-demo/blob/main/part6/test_raise.py)
 * [抛出错误2](https://github.com/bigredcapss/python-demo/blob/main/part6/test_reraise.py)
 * [异常调用栈](https://github.com/bigredcapss/python-demo/blob/main/part6/test_err.py)
-* 断言调试
+* [断言调试](https://github.com/bigredcapss/python-demo/blob/main/part6/test_assert.py)
 
 [](https://)
 
@@ -145,8 +145,9 @@ pip install 包名
 
 ## part8-进程和线程
 
-包含`多进程`，`多线程` ,`ThreadLocal` ,`分布式进程` 
+包含`多进程`，`多线程` ,`ThreadLocal` ,`分布式进程` ,`父子进程`
 
+* [使用fork观测父子进程](https://github.com/bigredcapss/python-demo/blob/main/part7/test_fork.py)
 
 ## part9-正则表达式
 
@@ -161,13 +162,13 @@ pip install 包名
 
 包含`datetime`,`collections`,`argparse`,`base64`,`struct`,`hashlib`,`hmac`,`itertools`,`contextlib`,`urllib`,`xml`,`HTMLParser`,`venv`
 
-
+* [使用datetime](https://github.com/bigredcapss/python-demo/blob/main/part9/test_datetime.py)
 
 ## part11-常用第三方模块
 
 包含`Pillow`,`requests`,`chardet`,`psutil`
 
-
+* [使用requests](https://github.com/bigredcapss/python-demo/blob/main/part9/test_requests.py)
 
 ## part12-访问数据库
 
