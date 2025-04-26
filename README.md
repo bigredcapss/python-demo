@@ -10,7 +10,7 @@ https://liaoxuefeng.com/books/python/introduction/index.html
 
 https://www.runoob.com/python3/python3-tutorial.html
 
-## part1-python基础
+## part1-python基础[](https://)
 
 包含`数据类型和变量` ,`条件判断与循环` ,`字符串和编码` ,`列表与元组` , `字典与set`, `模式匹配`
 
@@ -139,8 +139,6 @@ pip install 包名
 * [异常调用栈](https://github.com/bigredcapss/python-demo/blob/main/part6/test_err.py)
 * [断言调试](https://github.com/bigredcapss/python-demo/blob/main/part6/test_assert.py)
 
-[](https://)
-
 ## part7-IO编程
 
 * [文件IO](https://github.com/bigredcapss/python-demo/blob/main/part7/test_file_io.py)
@@ -149,7 +147,8 @@ pip install 包名
 
 包含`多进程`，`多线程` ,`ThreadLocal` ,`分布式进程` ,`父子进程`
 
-* [使用fork观测父子进程](https://github.com/bigredcapss/python-demo/blob/main/part7/test_fork.py)
+* [使用fork观测父子进程](https://github.com/bigredcapss/python-demo/blob/main/part8/test_fork.py)
+* [启动一个子进程并等待其结束](https://github.com/bigredcapss/python-demo/blob/main/part8/test_process.py)
 
 ## part9-正则表达式
 
@@ -168,9 +167,10 @@ pip install 包名
 
 ## part11-常用第三方模块
 
-包含`Pillow`,`requests`,`chardet`,`psutil`
+包含`Pillow`,`requests`,`chardet`,`psutil`,`pandas`,`openpyxl`
 
-* [使用requests](https://github.com/bigredcapss/python-demo/blob/main/part9/test_requests.py)
+* [使用requests](https://github.com/bigredcapss/python-demo/blob/main/part11/test_requests.py)
+* [使用pandas和openpyxl读写excel文件](https://github.com/bigredcapss/python-demo/blob/main/part11/test_rwexcel.py)
 
 ## part12-访问数据库
 
