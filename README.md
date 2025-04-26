@@ -10,7 +10,7 @@ https://liaoxuefeng.com/books/python/introduction/index.html
 
 https://www.runoob.com/python3/python3-tutorial.html
 
-## part1-python基础[](https://)
+## part1-python基础
 
 包含`数据类型和变量` ,`条件判断与循环` ,`字符串和编码` ,`列表与元组` , `字典与set`, `模式匹配`
 
