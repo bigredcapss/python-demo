@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 # filename : test_process.py
-# description : xx
+# description : 使用Process类启动一个子进程并等待其结束
 # author by : peanut
 # date : 2025/4/26
 

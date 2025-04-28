@@ -109,7 +109,7 @@ https://www.runoob.com/python3/python3-tutorial.html
 python模块安装与使用，`环境隔离`，`miniconda`
 
 ```shell
-pip install 包名
+pip3 install 包名
 ```
 
 ## part5-面向对象编程
@@ -149,6 +149,12 @@ pip install 包名
 
 * [使用fork观测父子进程](https://github.com/bigredcapss/python-demo/blob/main/part8/test_fork.py)
 * [启动一个子进程并等待其结束](https://github.com/bigredcapss/python-demo/blob/main/part8/test_process.py)
+* [通过Pool创建多个子进程](https://github.com/bigredcapss/python-demo/blob/main/part8/test_child_process.py)
+* [使用subprocess模块控制子进程的输入和输出](https://github.com/bigredcapss/python-demo/blob/main/part8/test_subprocess.py)
+* [进程间的通信](https://github.com/bigredcapss/python-demo/blob/main/part8/test_queue.py)
+* [创建线程并启动](https://github.com/bigredcapss/python-demo/blob/main/part8/test_multi_thread.py)
+* [多个线程同时操作一个变量的效果,并测试锁](https://github.com/bigredcapss/python-demo/blob/main/part8/test_lock.py)
+* [在python中测试多线程的并发](https://github.com/bigredcapss/python-demo/blob/main/part8/test_multi_cpu.py)
 
 ## part9-正则表达式
 
