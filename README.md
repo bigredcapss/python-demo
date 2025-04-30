@@ -155,6 +155,8 @@ pip3 install 包名
 * [创建线程并启动](https://github.com/bigredcapss/python-demo/blob/main/part8/test_multi_thread.py)
 * [多个线程同时操作一个变量的效果,并测试锁](https://github.com/bigredcapss/python-demo/blob/main/part8/test_lock.py)
 * [在python中测试多线程的并发](https://github.com/bigredcapss/python-demo/blob/main/part8/test_multi_cpu.py)
+* [threadlocal的使用](https://github.com/bigredcapss/python-demo/blob/main/part8/test_thread_local.py)
+* [分布式进程test_task_master与test_task_worker](https://github.com/bigredcapss/python-demo/blob/main/part8/test_task_worker.py)
 
 ## part9-正则表达式
 
@@ -169,7 +171,7 @@ pip3 install 包名
 
 包含`datetime`,`collections`,`argparse`,`base64`,`struct`,`hashlib`,`hmac`,`itertools`,`contextlib`,`urllib`,`xml`,`HTMLParser`,`venv`
 
-* [使用datetime](https://github.com/bigredcapss/python-demo/blob/main/part9/test_datetime.py)
+* [使用datetime](https://github.com/bigredcapss/python-demo/blob/main/part10/test_datetime.py)
 
 ## part11-常用第三方模块
 
@@ -180,6 +182,7 @@ pip3 install 包名
 
 ## part12-访问数据库
 
-包含`pymsql`
+包含`pymsql`,`elasticsearch`
 
 * [使用pymysql访问mysql](https://github.com/bigredcapss/python-demo/blob/main/part12/test_mysql.py)
+* [使用elasticsearch访问es](https://github.com/bigredcapss/python-demo/blob/main/part12/test_elasticsearch.py)
