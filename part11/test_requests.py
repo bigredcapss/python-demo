@@ -19,6 +19,7 @@ print(r.status_code)
 print(r.content)
 print(r.encoding)
 print(r.text)
+print(r.json())
 
 
 

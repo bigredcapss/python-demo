@@ -167,24 +167,58 @@ pip3 install 包名
 * [正则表达式之re.search](https://github.com/bigredcapss/python-demo/blob/main/part09/test_re_search.py)
 * [正则表达式之re.match](https://github.com/bigredcapss/python-demo/blob/main/part09/test_re_match.py)
 
-## part010-常用内建模块
+## part10-常用内建模块
 
 包含`datetime`,`collections`,`argparse`,`base64`,`struct`,`hashlib`,`hmac`,`itertools`,`contextlib`,`urllib`,`xml`,`HTMLParser`,`venv`
 
-* [使用datetime](https://github.com/bigredcapss/python-demo/blob/main/part010/test_datetime.py)
-* [使用collections](https://github.com/bigredcapss/python-demo/blob/main/part010/test_collections.py)
-* [使用urllib](https://github.com/bigredcapss/python-demo/blob/main/part010/test_urllib.py)
+* [使用datetime](https://github.com/bigredcapss/python-demo/blob/main/part10/test_datetime.py)
+* [使用collections](https://github.com/bigredcapss/python-demo/blob/main/part10/test_collections.py)
+* [使用urllib](https://github.com/bigredcapss/python-demo/blob/main/part10/test_urllib.py)
+* [使用with](https://github.com/bigredcapss/python-demo/blob/main/part10/test_with.py)
+* [使用contexlib简化上下文管理](https://github.com/bigredcapss/python-demo/blob/main/part10/test_contextlib.py)
+* [使用struct模块解决bytes和其他二进制数据类型的转换](https://github.com/bigredcapss/python-demo/blob/main/part10/test_struct.py)
+* [使用argparse库简化参数解析](https://github.com/bigredcapss/python-demo/blob/main/part10/test_argparse.py)
 
-## part011-常用第三方模块
+## part11-常用第三方模块
 
 包含`Pillow`,`requests`,`chardet`,`psutil`,`pandas`,`openpyxl`
 
-* [使用requests](https://github.com/bigredcapss/python-demo/blob/main/part011/test_requests.py)
-* [使用pandas和openpyxl读写excel文件](https://github.com/bigredcapss/python-demo/blob/main/part011/test_rwexcel.py)
+* [使用requests](https://github.com/bigredcapss/python-demo/blob/main/part11/test_requests.py)
+* [使用pandas和openpyxl读写excel文件](https://github.com/bigredcapss/python-demo/blob/main/part11/test_rwexcel.py)
+* [使用chardet检测内容编码](https://github.com/bigredcapss/python-demo/blob/main/part11/test_chardet.py)
+* [使用psutil检测系统信息](https://github.com/bigredcapss/python-demo/blob/main/part11/test_psutil.py)
 
-## part012-访问数据库
+## part12-访问数据库
 
 包含`pymsql`,`elasticsearch`
 
-* [使用pymysql访问mysql](https://github.com/bigredcapss/python-demo/blob/main/part012/test_mysql.py)
-* [使用elasticsearch访问es](https://github.com/bigredcapss/python-demo/blob/main/part012/test_elasticsearch.py)
+* [使用pymysql访问mysql](https://github.com/bigredcapss/python-demo/blob/main/part12/test_mysql.py)
+* [使用elasticsearch访问es](https://github.com/bigredcapss/python-demo/blob/main/part12/test_elasticsearch.py)
+
+
+## part13-网络编程
+包含`tcp`,`udp`
+
+* [使用socket创建tcp客户端请求新浪首页](https://github.com/bigredcapss/python-demo/blob/main/part13/test_tcp_client.py)
+* [使用socket创建tcp服务端接受客户端请求](https://github.com/bigredcapss/python-demo/blob/main/part13/test_tcp_server.py)
+* [使用socket创建tcp客户端请求服务端](https://github.com/bigredcapss/python-demo/blob/main/part13/test_tcp_client.py)
+* [使用socket创建udp服务端接受客户端请求](https://github.com/bigredcapss/python-demo/blob/main/part13/test_udp_server.py)
+* [使用socket创建udp客户端请求服务端](https://github.com/bigredcapss/python-demo/blob/main/part13/test_udp_client.py)
+
+
+## part14-电子邮件
+包含`SMTP`,`POP3`
+
+* [使用smtp客户端发送邮件](https://github.com/bigredcapss/python-demo/blob/main/part14/test_smtp_send_email.py)
+  
+
+## part15-Web开发
+
+
+## part16-异步IO
+
+
+
+
+
+
